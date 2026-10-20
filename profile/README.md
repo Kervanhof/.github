@@ -39,4 +39,4 @@ Based in Samsun, Türkiye. Our first market is Germany, and more countries will 
 
 ---
 
-📍 Samsun, Türkiye · 🌐 [kervanhof.com](https://kervanhof.com) *(coming soon)* · ✉️ hello@kervanhof.com *(coming soon)*
+📍 Samsun, Türkiye · 🌐 [kervanhof.com](https://www.kervanhof.com) · ✉️ [dev@kervanhof.com](mailto:dev@kervanhof.com)
